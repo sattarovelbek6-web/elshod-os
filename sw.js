@@ -1,4 +1,4 @@
-const CACHE = 'elshod-os-v03';
+const CACHE = 'elshod-os-v04';
 const BASE = self.registration.scope;
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icon.svg'].map(path => new URL(path, BASE).href);
 
