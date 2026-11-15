@@ -1,0 +1,9 @@
+{
+  "name": "Elshod OS",
+  "short_name": "Elshod OS",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#090909"
+}
